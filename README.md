@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Bombalaka , my real name is Yotaka Khaowkomol.
-- 👀 I’m interested in games, coding, and drawing digital painting. 
-- 🌱 I’m currently learning cloud development. 
-- 💞️ I’m looking to collaborate on c# now c# application ASP.NET MVC, but I am also interested in the flutter mobile app. 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Exciting Times Ahead! Looking for LIA (Internship) in Cloud Development! ☁️
+My name is Yotaka Khaowkomol, and I am currently studying Cloud Development at Yrkeshögskolan Campus Mölndal. As part of my education, I am now searching for an LIA (Lärande i Arbete) opportunity where I can apply my skills and gain hands-on experience in cloud technologies, DevOps, and backend development.
+
+💻 My Technical Skills & Interests:
+ 🔹 Cloud Platforms: Azure, GCP
+ 🔹 Programming: C#, Python
+ 🔹 Databases: SQL, MongoDB
+ 🔹 Version Control: Git, GitHub
+ 
+🌟 A Bit About Me:
+ I have a background in healthcare and customer service, where I developed strong problem-solving skills, teamwork, and adaptability. Now, I am fully focused on my transition into IT and cloud development, where I can combine my analytical mindset with my passion for technology.
+💡 What I Bring to the Team:
+ ✔️ A strong willingness to learn and adapt
+ ✔️ Problem-solving mindset
+ ✔️ Collaborative and proactive approach
+ ✔️ Passion for cloud computing & automation
+
+📩 Looking for an enthusiastic and dedicated intern? I would love to connect! Feel free to reach out via LinkedIn or email.
+🔥 I appreciate any recommendations, insights, or connections that could help me find the right opportunity. ☁️🚀
 
 <!---
 Bombalaka/Bombalaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
