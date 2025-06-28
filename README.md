@@ -1,8 +1,8 @@
 # 👋 Hi there! / Hej! I'm Yotaka Khaowkomol
 
-## 💻 Aspiring Cloud & Software Developer | Beginner-friendly coding explorer 🌤️
+## 💻 Cloud & Software Developer | Beginner-friendly coding explorer 🌤️
 
-### 🌍 About Me / Om mig
+### 🌍 About Me 
 
 🇹🇭 Originally from Thailand | 📍 Living and learning in Sweden  
 💬 Languages: English 🇬🇧 | Swedish 🇸🇪 | Thai 🇹🇭
