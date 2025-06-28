@@ -36,13 +36,21 @@ I'm not afraid to ask questions and take my time to understand how things work �
 ### 🛠️ Tools & Tech I’m Learning
 
 - C# / .NET
-- SQL / MongoDB
+- SQL / MongoDB / MySQL 
 - Entity Framework / ADO.NET
 - Azure (Studying for AZ-900 💪)
 - Git & GitHub
 - Visual Studio / VS Code
 - HTML, CSS, JavaScript (Frontend Basics)
 - Linux & WSL (Beginner level 🐧)
+- API
+- Postman (testing Api)
+- React
+- Blazor
+- Ansible
+- Git action
+- Azure devops
+- Jira
 
 ---
 
