@@ -1,59 +1,98 @@
 # 👋 Hi, I'm Yotaka Khaowkomol  
 
-☁️ **Cloud & Software Developer in the making** | 🚀 Career-changer from healthcare & retail to tech | 🌱 Curious lifelong learner  
+☁️ **Aspiring Cloud & Software Developer** | 🚀 Career-changer from healthcare & retail to tech | 🌱 Curious lifelong learner  
 
 ---
 
 ## 🌍 About Me  
 
-- 🇹🇭 Born in Thailand | 📍 Living in Sweden  
+- 🇹🇭 From Thailand | 📍 Living in Sweden  
 - 👩‍⚕️🛍️ Background: Healthcare & H&M → Now Cloud & Software Development  
 - 💬 Languages: English • Swedish • Thai  
 - 🌅 Morning person who codes before sunrise  
 
 ---
 
-## 📘 Projects.
+## 🛠️ Skills & Tools  
 
-- 🌍 **GBECOMAP** (Hackathon Project – Summer) * – Web app that maps second-hand shops & recycling workshops in Gothenburg  
-  - Built with .NET Blazor, Database: MongoDB, and Docker to run the database on localhost.  
+**Languages & Frameworks**  
+C#, .NET, Python, HTML, CSS, JavaScript, Blazor  
 
-- 📦 **Inventory System** – Product management app  
-  - C#, Entity Framework, SQLite, MongoDB 
+**Databases**  
+SQLite • MySQL • MongoDB  
 
-- 💰 **Expenses Tracker** – MVC web app 
-  - C# MVC app and MongoDB.   
+**Cloud & DevOps**  
+Azure • AWS • Docker • GitHub Actions • Azure DevOps • Ansible • Jira  
 
-- 🛒 **Merchandise API** *(Project that collab with another student who studing IT-project leader, cloud infrastuture and Java's student)* 
-  - Designed and consumed REST APIs and Azure function app.   
-  - Created an API to send data to a third-party system  
-  - Consumed their API responses back into the system  
-  - Tested endpoints with Postman  
+**Tools**  
+Visual Studio • VS Code • Linux/WSL • Postman • Git/GitHub  
 
-- 🤝 **Fair Split** *(Hackathon Project – Summer)*  
-  - API-based application with JWT authentication  
-  - Frontend ↔ Backend communication via REST API  
-  - Implemented secure login with JWT tokens  
-  - Tokens cleaned up after logout for security  
-
-- 🏨 **Hostel Website** – Static website  
-  - HTML, CSS, JavaScript  
-
-- 🎅 **Santa’s Quest** – Console game in C#  
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,blazor,mongodb,mysql,sqlite,azure,aws,docker,linux,git,github,vscode,postman" />
+</p>  
 
 ---
 
-## 🛠️ Tech Toolbox  
+# ✨ Project Spotlights  
 
-**Languages & Frameworks**: C#, .NET, Python, HTML, CSS, JavaScript, React, Flutter, Blazor  
-**Databases**: SQL, MongoDB, MySQL  
-**Cloud & DevOps**: Azure, AWS, GCP, Docker, GitHub Actions, Azure DevOps, Ansible, Jira  
-**Tools**: VS Code, Visual Studio, Linux/WSL, Postman  
+## 🛒 Merchandise Store  
+*(Collaboration Project with IT Project Leader, Cloud Infrastructure, and Java students)*  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cs,dotnet,py,react,mongodb,mysql,docker,linux,git,github,vscode" />
-</p>  
+An e-commerce platform built with **Clean Architecture** and **Domain-Driven Design (DDD)**, featuring full CRUD functionality for admins and users.  
+
+🔑 **Key Features**  
+- Admin dashboard: login, manage products, edit data (CRUD)  
+- User shopping: add to cart, checkout & payment  
+- API integration with third-party services (send & receive data)  
+- CI/CD pipeline: build, test & deploy to **Azure Container Apps**  
+- Postman and Swagger for API testing  
+
+⚙️ **Tech Stack**  
+- .NET, REST APIs, Azure Function App  
+- Azure Container Apps (CI/CD with GitHub Actions)  
+- SQL-based data storage  
+- DDD + Clean Architecture principles  
+
+---
+
+## 🤝 Fair Split Web Application *(Hackathon Project – Summer)*  
+
+A bill-splitting app developed during a hackathon, focused on **API-based backend** with **JWT authentication** for secure login.  
+
+🔑 **Key Features**  
+- User accounts: create, save & reuse data  
+- Quick mode: split bills without creating an account  
+- Group management: CRUD operations to add/edit members  
+- Bill detail breakdown: shows exactly *who owes who*  
+- JWT authentication with login, “remember me”, and secure logout  
+
+⚙️ **Tech Stack**  
+- .NET, REST API for backend
+- React for front end.
+- JWT for authentication & token management  
+- Secure token cleanup on logout  
+- Swagger for testing endpoints  
+
+---
+
+## 🌍 EcoMapGbg *(Hackathon Project – Summer)*  
+
+A sustainability-focused web app that connects people in Gothenburg to second-hand shops, repair cafés, and recycling centers.  
+
+🔑 **Key Features**  
+- Interactive map with filters (type, area, opening hours)  
+- Crowdsourced submissions: users can add eco-locations  
+- Location details: contact info, description & open hours  
+    
+
+⚙️ **Architecture & Tech Stack**  
+- **Frontend**: Blazor Server + Bootstrap + Leaflet.js  
+- **Backend**: .NET REST API (LocationsController)  
+- **Database**: MongoDB with repository pattern  
+- **Design**: Clean Architecture + DDD  
+- **CI/CD**: GitHub Actions → Azure (Docker-enabled) (in the progress)    
+
+📄 [EcoMapGbg Repository](https://github.com/Bombalaka/ecomapgbg) • [Software Design Document (SDD)](https://github.com/Bombalaka/ecomapgbg/blob/main/docs/SDD.pdf)  
 
 ---
 
@@ -66,20 +105,17 @@
 
 ---
 
-## 🌱 Currently Learning  
-
-- ☁️ Azure (AZ-900 prep) and AWS certificate 
-- ⚛️ React & Blazor  
-- 🐧 Linux 
-- 📦 API development & testing   
-
----
-
 ## 🤝 Let’s Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/yotaka-khaowkomol-39b757115/)  
-- 📩 Email: **evamariaarroyo@gmail.com**  
+- 📩 Email: **evamariaarroyo@gmail.com** (use a professional one)  
 
 ---
+
+## 🎉 Fun Facts  
+
+- 🌅 I’m a morning person who loves learning before sunrise  
+- 📋 I organize my work with **Kanban** and **Notion**  
+- 👩‍⚕️🛍️ Background in healthcare & fashion retail (H&M) before switching to tech  
 
 ✨ *“Every big journey starts with one small commit.”*  
