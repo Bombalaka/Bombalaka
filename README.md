@@ -1,85 +1,78 @@
-# 👋 Hi there! / Hej! I'm Yotaka Khaowkomol
+# 👋 Hi, I'm Yotaka Khaowkomol  
 
-## 💻 Cloud & Software Developer | Beginner-friendly coding explorer 🌤️
-
-### 🌍 About Me 
-
-🇹🇭 Originally from Thailand | 📍 Living and learning in Sweden  
-💬 Languages: English 🇬🇧 | Swedish 🇸🇪 | Thai 🇹🇭
-
-I'm a passionate beginner in software development, currently diving deep into:
-- 🌐 **C# and .NET**
-- ☁️ **Cloud technologies**
-- 🛢️ **Databases** (SQL, MongoDB)
-- 🧠 Learning step-by-step and building real-world projects
-
-I'm not afraid to ask questions and take my time to understand how things work — just like a curious 5-year-old! I believe simple learning builds strong foundations. 👶💡
-
-💻 My Technical Skills & Interests:
- 🔹 Cloud Platforms: Azure, GCP
- 🔹 Programming: C#, Python
- 🔹 Databases: SQL, MongoDB
- 🔹 Version Control: Git, GitHub
- 
-🌟 A Bit About Me:
- I have a background in healthcare and customer service, where I developed strong problem-solving skills, teamwork, and adaptability. Now, I am fully focused on my transition into IT and cloud development, where I can combine my analytical mindset with my passion for technology.
-
-💡 What I Bring to the Team:
- ✔️ A strong willingness to learn and adapt
- ✔️ Problem-solving mindset
- ✔️ Collaborative and proactive approach
- ✔️ Passion for cloud computing & automation
-
-📩 Looking for an enthusiastic and dedicated intern? I would love to connect! Feel free to reach out via LinkedIn or email.
-🔥 I appreciate any recommendations, insights, or connections that could help me find the right opportunity. ☁️🚀
-
-### 🛠️ Tools & Tech I’m Learning
-
-- C# / .NET
-- SQL / MongoDB / MySQL 
-- Entity Framework / ADO.NET
-- Azure (Studying for AZ-900 💪)
-- Git & GitHub
-- Visual Studio / VS Code
-- HTML, CSS, JavaScript (Frontend Basics)
-- Linux & WSL (Beginner level 🐧)
-- API
-- Postman (testing Api)
-- React
-- Blazor
-- Ansible
-- Git action
-- Azure devops
-- Jira
+🎯 **Aspiring Cloud & Software Developer** | Passionate Learner 🌤️  
 
 ---
 
-### 📘 Projects I’ve Worked On
+## 🌍 About Me  
 
-- Inventory Management System (C#, EF, SQLite)
-- Barbella Inventory (MVC web app)
-- Hostel website (HTML,CSS,JS)
-- Expenses Web App (MVC Web app)
-- Game project: Santa’s Quest 🎅🧝
-
-> More coming soon as I continue to learn and grow every day! 🌱
+- 🇹🇭 From Thailand, now based in Sweden  
+- 🎓 Student focusing on **Cloud Development & Software Engineering**  
+- 💡 Learning step by step with real-world projects  
+- 💬 Languages: English 🇬🇧 | Swedish 🇸🇪 | Thai 🇹🇭  
 
 ---
 
-### 🤝 Let’s Connect!
+## 🛠️ Skills & Tools  
 
-- [LinkedIn](www.linkedin.com/in/yotaka-khaowgomol-39b757115) 
-- Email: evamariaarroyo@gmail.com
+**Programming & Frameworks**  
+C# • .NET • Python • HTML • CSS • JavaScript • React • Flutter • Blazor  
+
+**Databases**  
+SQL • MongoDB • MySQL • Entity Framework • ADO.NET  
+
+**Cloud & DevOps**  
+Azure • AWS • GCP • GitHub Actions • Azure DevOps • Docker • Ansible • Jira  
+
+**Tools & Platforms**  
+Visual Studio • VS Code • Linux/WSL • Postman  
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>  
 
 ---
 
-### 🎉 Fun Facts
+## 📘 Projects  
 
-- I used to work at H&M 🛍️ and in healthcare 👩‍⚕️ before switching to tech.
-- I love organizing my tasks with Kanban and Notion.
-- I'm a morning person 🌅 who loves learning before the sun rises!
+- **GBECOMAP** 🌍 – A web app mapping second-hand shops in Gothenburg (React, .NET, MongoDB, Azure)  
+- **Inventory Management System** 📦 – C#, Entity Framework, SQLite  
+- **Barbella Inventory** 📊 – MVC web app with C# and SQLite  
+- **Hostel Website** 🏨 – HTML, CSS, JavaScript  
+- **Expenses Web App** 💰 – MVC with MongoDB (in progress)  
+- **Santa’s Quest 🎅🧝** – Console game in C#  
 
-<!---
-Bombalaka/Bombalaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bombalaka&show_icons=true&theme=default&hide_rank=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bombalaka&layout=compact&theme=default" height="150"/>
+</p>  
+
+---
+
+## 🤝 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/yotaka-khaowkomol-39b757115/)  
+- 📩 Email: **evamariaarroyo@gmail.com**   
+
+---
+
+## 🎉 Fun Facts  
+
+- 🌅 I’m a morning person who loves learning before sunrise  
+- 📋 I organize my work with **Kanban** and **Notion**  
+- 👩‍⚕️🛍️ Background in healthcare & fashion retail (H&M) before switching to tech
+  
+
+---
