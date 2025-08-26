@@ -44,7 +44,7 @@ Visual Studio • VS Code • Linux/WSL • Postman
 
 ## 📘 Projects  
 
-- **GBECOMAP** 🌍 – A web app mapping second-hand shops in Gothenburg (React, .NET, MongoDB, Azure)  
+- **GBECOMAP** 🌍 – A web app mapping second-hand shops in Gothenburg (Blazor, .NET, MongoDB, DOcker)  
 - **Inventory Management System** 📦 – C#, Entity Framework, SQLite  
 - **Barbella Inventory** 📊 – MVC web app with C# and SQLite  
 - **Hostel Website** 🏨 – HTML, CSS, JavaScript  
