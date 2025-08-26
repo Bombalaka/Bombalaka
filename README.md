@@ -7,7 +7,7 @@
 ## 🌍 About Me  
 
 - 🇹🇭 From Thailand, now based in Sweden  
-- 🎓 Student focusing on **Cloud Development & Software Engineering**  
+- 🎓 Student focusing on **Cloud Development & Software developer**  
 - 💡 Learning step by step with real-world projects  
 - 💬 Languages: English 🇬🇧 | Swedish 🇸🇪 | Thai 🇹🇭  
 
