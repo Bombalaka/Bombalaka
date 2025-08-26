@@ -48,7 +48,7 @@ Visual Studio • VS Code • Linux/WSL • Postman
 - **Inventory Management System** 📦 – C#, Entity Framework, SQLite  
 - **Barbella Inventory** 📊 – MVC web app with C# and SQLite  
 - **Hostel Website** 🏨 – HTML, CSS, JavaScript  
-- **Expenses Web App** 💰 – MVC with MongoDB (in progress)  
+- **Expenses Web App** 💰 – MVC with MongoDB 
 - **Santa’s Quest 🎅🧝** – Console game in C#  
 
 ---
