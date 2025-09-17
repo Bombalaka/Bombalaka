@@ -96,15 +96,6 @@ A sustainability-focused web app that connects people in Gothenburg to second-ha
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bombalaka&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bombalaka&layout=compact&theme=tokyonight" height="150"/>
-</p>  
-
----
-
 ## 🤝 Let’s Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/yotaka-khaowkomol-39b757115/)  
