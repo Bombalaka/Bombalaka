@@ -99,7 +99,7 @@ A sustainability-focused web app that connects people in Gothenburg to second-ha
 ## 🤝 Let’s Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/yotaka-khaowkomol-39b757115/)  
-- 📩 Email: **evamariaarroyo@gmail.com** (use a professional one)  
+- 📩 Email: **evamariaarroyo@gmail.com** 
 
 ---
 
