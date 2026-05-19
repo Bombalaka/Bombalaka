@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yotaka Khaowkomol  
 
-☁️ **Aspiring Cloud & Software Developer** | 🚀 Career-changer from healthcare & retail to tech | 🌱 Curious lifelong learner  
+Software developer
 
 ---
 
@@ -9,7 +9,7 @@
 - 🇹🇭 From Thailand | 📍 Living in Sweden  
 - 👩‍⚕️🛍️ Background: Healthcare & H&M → Now Cloud & Software Development  
 - 💬 Languages: English • Swedish • Thai  
-- 🌅 Morning person who codes before sunrise  
+
 
 ---
 
