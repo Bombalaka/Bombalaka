@@ -54,10 +54,4 @@ Visual Studio • VS Code • Postman • Git/GitHub
 
 ---
 
-## 🎉 Fun Facts  
-
-- 🌅 I’m a morning person who loves learning before sunrise  
-- 📋 I organize my work with **Kanban** and **Notion**  
-- 👩‍⚕️🛍️ Background in healthcare & fashion retail (H&M) before switching to tech  
-
 ✨ *“Every big journey starts with one small commit.”*  
