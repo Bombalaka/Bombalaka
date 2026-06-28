@@ -13,23 +13,35 @@ Software developer
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools
 
-**Languages & Frameworks**  
-C#, .NET, Python, HTML, CSS, JavaScript, Blazor  
+**Languages & Frameworks**
+C#, .NET, Python, JavaScript, HTML, CSS
 
-**Databases**  
-SQLite • MySQL • MongoDB  
+**Frontend & Mobile**
+React, React Native, Vue.js, Next.js, Flutter, Dart
 
-**Cloud & DevOps**  
-Azure • AWS • Docker • GitHub Actions • Azure DevOps • Ansible • Jira  
+**Backend & APIs**
+REST API, GraphQL
 
-**Tools**  
-Visual Studio • VS Code • Linux/WSL • Postman • Git/GitHub  
+**Databases**
+SQL, PostgreSQL, MySQL, SQLite, MongoDB
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,js,blazor,mongodb,mysql,sqlite,azure,aws,docker,linux,git,github,vscode,postman" />
-</p>  
+**Cloud & DevOps**
+Azure • AWS • GCP • Docker • GitHub Actions • CI/CD • Azure DevOps • Jira
+
+**Tools**
+Visual Studio • VS Code • Postman • Git/GitHub
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,flutter,dart,graphql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,azure,aws" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,git,github,postman,vscode,visualstudio" />
+</p>
 
 ---
 ## 🤝 Let's Connect
