@@ -37,7 +37,7 @@ Visual Studio • VS Code • Linux/WSL • Postman • Git/GitHub
 ## 🤝 Let’s Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/yotaka-khaowkomol-39b757115/)  
-- 📩 Email: **evamariaarroyo@gmail.com** 
+- 📩 Email: **yotaka.khaowkomol@gmail.com. ** 
 
 ---
 
